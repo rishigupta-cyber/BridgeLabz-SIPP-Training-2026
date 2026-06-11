@@ -8,10 +8,11 @@ public class EmployeeBonus {
         System.out.print("Enter years of service: ");
         int years = sc.nextInt();
 
-        double bonus = 0;
         if (years > 5) {
-            bonus = salary * 0.05;
+            double bonus = salary * 5 / 100;
+            System.out.println("Bonus amount: " + bonus);
+        } else {
+            System.out.println("No bonus applicable.");
         }
-        System.out.println("Bonus amount = " + bonus);
     }
 }
