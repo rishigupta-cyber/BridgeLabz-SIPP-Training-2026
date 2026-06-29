@@ -1,6 +1,0 @@
-Laptop-10
-Mouse-0
-Keyboard-5
-Monitor-0
-Headphones-3
-Webcam-0

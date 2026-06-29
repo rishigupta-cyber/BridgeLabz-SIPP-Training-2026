@@ -1,4 +1,0 @@
-entertainment - 45
-food - 68684
-tr - 64
-ewd68 - 6468

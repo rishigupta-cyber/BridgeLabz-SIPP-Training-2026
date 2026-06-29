@@ -1,8 +1,0 @@
-========================================
-           STUDENT REPORT CARD          
-========================================
-Alice           | Average:  88.00 | Grade: A
-Bob             | Average:  70.00 | Grade: B
-Charlie         | Average:  96.40 | Grade: A+
-Diana           | Average:  53.60 | Grade: F
-========================================

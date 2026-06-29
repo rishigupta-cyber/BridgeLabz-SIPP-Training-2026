@@ -1,5 +1,0 @@
-Milk       - Rs.60
-Bread      - Rs.40
-Eggs       - Rs.90
-Butter     - Rs.120
-Rice (1kg) - Rs.75
