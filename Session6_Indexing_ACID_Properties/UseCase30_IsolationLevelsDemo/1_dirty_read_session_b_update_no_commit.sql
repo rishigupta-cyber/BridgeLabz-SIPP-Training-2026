@@ -1,0 +1,9 @@
+USE covid_tracker6;
+
+SET SESSION TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;
+
+START TRANSACTION;
+
+UPDATE covid_cases
+SET confirmed = 99999999
+WHERE country = 'India' AND report_date = '2026-07-22';

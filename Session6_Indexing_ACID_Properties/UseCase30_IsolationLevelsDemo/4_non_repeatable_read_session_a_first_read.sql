@@ -1,0 +1,9 @@
+USE covid_tracker6;
+
+SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED;
+
+START TRANSACTION;
+
+SELECT confirmed
+FROM covid_cases
+WHERE country = 'Brazil' AND report_date = '2026-07-22';
